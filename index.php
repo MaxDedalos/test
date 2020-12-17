@@ -1,0 +1,6 @@
+<?php
+
+
+    // Test
+    $test = '';
+    $test++;
